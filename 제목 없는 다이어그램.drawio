@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T07:36:30.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="YGjfeH3psjD_-LhqZZyC" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-09T07:41:37.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="StamKQaAkccF6wxbx3yj" version="20.6.2" type="github">
   <diagram id="EWTnANCkMsUeMdHVheLY" name="페이지-1">
     <mxGraphModel dx="717" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -194,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xCD-Z-dLWQwIkPLPfsmC-185" value="주소록" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xCD-Z-dLWQwIkPLPfsmC-186" value="배송지" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="130" width="80" height="80" as="geometry" />
